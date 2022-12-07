@@ -1,1 +1,1 @@
-# SQL_Data_Analysis_Excerisze
+# Exploratory Data Analysis on Covid Deaths and Vacinations Data with SQL 
